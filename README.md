@@ -1,4 +1,4 @@
-![](https://github.com/MedhaChatterjee/MedhaChatterjee/blob/main/banner1.gif)
+![](https://github.com/MedhaChatterjee/MedhaChatterjee/blob/main/ezgif.com-gif-maker%20(7).gif)
 <h1 align="center">Hi 👋, I'm Medha Chatterjee</h1>
 <h3 align="center">A young, passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="m.gif">
