@@ -1,7 +1,7 @@
 ![](https://github.com/MedhaChatterjee/MedhaChatterjee/blob/main/ezgif.com-gif-maker%20(7).gif)
 <h1 align="center">Hi 👋, I'm Medha Chatterjee</h1>
 <h3 align="center">A young, passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="m.gif">
+<img align="right" alt="coding" width="350" src="m.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medhachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="medhachatterjee" /> </p>
 
 - 🔭 I’m currently working on **GobbleUp-App**
